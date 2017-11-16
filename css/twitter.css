@@ -1,0 +1,17 @@
+#results {
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.response_created_at {
+	color: #397831;
+}
+
+.response_created_at_unix {
+	font-size: x-small;
+}
+
+.response_error {
+	color: red;
+}
